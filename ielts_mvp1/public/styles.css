@@ -98,8 +98,8 @@ p {
 
   figure {
     display: block;
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    padding: auto;
     width: 100%;
     text-align: center;  /* Centers the content */
   }
