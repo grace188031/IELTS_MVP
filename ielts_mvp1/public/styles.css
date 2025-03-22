@@ -110,6 +110,7 @@ p {
     max-width: 100%; /* Makes sure the image stays within the container */
     width: 1000px;
     height: auto; /* Adjust this value to set the height */
+    margin: auto;
   }
   
   .image-container img {
